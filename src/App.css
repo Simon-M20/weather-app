@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600;700&family=Raleway:wght@400;600;900&display=swap");
+
+::-webkit-scrollbar {
+    scroll-behavior: smooth;
+    width: 10px;
+    height: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(34, 34, 34, 0.85);
+    scroll-behavior: smooth;
+    border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);
+    background: #5d8bf4;
+    border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb:active {
+    background-color: #3e75f5;
+    border-radius: 20px;
+}
+
+figcaption h1,
+figcaption span,
+figcaption small,
+h2 {
+    background: -webkit-linear-gradient(180deg, #2563eb 20%, #4338ca);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    /* font-family: "Fredoka"; */
+    /* font-weight: 700; */
+    /* letter-spacing: 1px; */
+}
+
+aside {
+    overflow-y: scroll;
+}
+
+aside::-webkit-scrollbar {
+    display: none;
+}
+
+aside,
+form {
+    background-color: #f0f0fc;
+    color: #222;
+}
+
+main {
+    background-color: #f7f6f9;
+    /* overflow-y: scroll; */
+}
+
+/* main::-webkit-scrollbar {
+    display: none;
+} */
+
+aside.dark,
+form.dark {
+    background-color: #1e213a;
+    color: #fff;
+}
+
+main.dark {
+    background-color: #100e1d;
+    color: #fff;
+}
