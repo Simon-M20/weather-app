@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/weather-app/static/css/main.aca91f9a.css",
-    "main.js": "/weather-app/static/js/main.405874d2.js",
-    "static/js/787.d9312eb8.chunk.js": "/weather-app/static/js/787.d9312eb8.chunk.js",
-    "static/media/Sad.png": "/weather-app/static/media/Sad.555bff1a1903bf4be02d.png",
-    "static/media/7hdN9MGQ_4x.jpg": "/weather-app/static/media/7hdN9MGQ_4x.6ee006fb53f266ba0923.jpg",
-    "static/media/Clear.png": "/weather-app/static/media/Clear.6e4f36b6f663ff2d4d6a.png",
-    "static/media/LightCloud.png": "/weather-app/static/media/LightCloud.edc43777fbbf36684278.png",
-    "static/media/Shower.png": "/weather-app/static/media/Shower.ea1e199aedb22fe4dd92.png",
-    "static/media/ForecastWeather.svg": "/weather-app/static/media/ForecastWeather.f11a6b57d39b8819ca5ea03f9ab57879.svg",
-    "static/media/Sleet.png": "/weather-app/static/media/Sleet.6ef96c5a2098a6b1a146.png",
-    "index.html": "/weather-app/index.html",
-    "main.aca91f9a.css.map": "/weather-app/static/css/main.aca91f9a.css.map",
-    "main.405874d2.js.map": "/weather-app/static/js/main.405874d2.js.map",
-    "787.d9312eb8.chunk.js.map": "/weather-app/static/js/787.d9312eb8.chunk.js.map"
+    "main.css": "/Simon-M20/weather-app/static/css/main.aca91f9a.css",
+    "main.js": "/Simon-M20/weather-app/static/js/main.405874d2.js",
+    "static/js/787.d9312eb8.chunk.js": "/Simon-M20/weather-app/static/js/787.d9312eb8.chunk.js",
+    "static/media/Sad.png": "/Simon-M20/weather-app/static/media/Sad.555bff1a1903bf4be02d.png",
+    "static/media/7hdN9MGQ_4x.jpg": "/Simon-M20/weather-app/static/media/7hdN9MGQ_4x.6ee006fb53f266ba0923.jpg",
+    "static/media/Clear.png": "/Simon-M20/weather-app/static/media/Clear.6e4f36b6f663ff2d4d6a.png",
+    "static/media/LightCloud.png": "/Simon-M20/weather-app/static/media/LightCloud.edc43777fbbf36684278.png",
+    "static/media/Shower.png": "/Simon-M20/weather-app/static/media/Shower.ea1e199aedb22fe4dd92.png",
+    "static/media/ForecastWeather.svg": "/Simon-M20/weather-app/static/media/ForecastWeather.f11a6b57d39b8819ca5ea03f9ab57879.svg",
+    "static/media/Sleet.png": "/Simon-M20/weather-app/static/media/Sleet.6ef96c5a2098a6b1a146.png",
+    "index.html": "/Simon-M20/weather-app/index.html",
+    "main.aca91f9a.css.map": "/Simon-M20/weather-app/static/css/main.aca91f9a.css.map",
+    "main.405874d2.js.map": "/Simon-M20/weather-app/static/js/main.405874d2.js.map",
+    "787.d9312eb8.chunk.js.map": "/Simon-M20/weather-app/static/js/787.d9312eb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aca91f9a.css",
